@@ -15,7 +15,7 @@ public class Profile
             {
                 String bjp="Vishal";
                 String Congress="Pritam";
-                String Shivsena="Pritam1";.
+                String Shivsena="Pritam1";
                 System.out.println("The Candidate of Different Patry Candidates are:"+bjp +Congress +Shivsena);
             }
         }
